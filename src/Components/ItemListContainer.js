@@ -7,7 +7,7 @@ const Bienvenida = () => {
     
     return(
         <div>
-            <Saludo greeting="a FreeApp estos son todos nuestros productos"/>
+            <Saludo greeting="a Freeapp estos son nuestros productos"/>
         </div>
     );
 

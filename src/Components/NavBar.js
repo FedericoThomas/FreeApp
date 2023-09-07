@@ -5,13 +5,12 @@ const NavBar = () => {
 
     
     return(
-        <div>
-            
+        <div>  
             <nav id="Navigation" >
                 <h1 id="Logo">FreeApp</h1>
-                <a id="link">Smartphone</a>
-                <a id="link">Notebooks</a>
-                <a id="link">Gamming</a>
+                <a href="#" id="link">Smartphone</a>
+                <a href="#" id="link">Notebooks</a>
+                <a href="#" id="link">Gamming</a>
                 <Cart/>
             </nav>
 
